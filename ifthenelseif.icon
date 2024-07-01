@@ -1,0 +1,8 @@
+# ifthenelseif.icon
+procedure main()
+    x := 5
+    if x = 5 then
+        write("x is 5")
+    else if x < 10 then
+        write("x is less than 10")
+end

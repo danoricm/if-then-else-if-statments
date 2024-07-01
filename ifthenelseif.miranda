@@ -1,0 +1,4 @@
+|| ifthenelseif.miranda
+x = 5
+
+main = [ if x = 5 then "x is 5" else if x < 10 then "x is less than 10" else "" ]
